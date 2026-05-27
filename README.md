@@ -1,5 +1,5 @@
 # who are you
-Hebrew flashcards for russian speakers, working on linux termina;
+Hebrew flashcards for russian speakers, working in linux terminal
 
 # how to use
 ./hebrew-cards run
