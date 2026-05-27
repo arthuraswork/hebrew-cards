@@ -1,4 +1,4 @@
-# who are you
+# who am i
 Hebrew flashcards for russian speakers, working in linux terminal
 
 # how to use
