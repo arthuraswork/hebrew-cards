@@ -1,0 +1,50 @@
+{"word": "שלום", "translate": "мир, приветствие", "translit": "шалом", "sample": "שלום, מה שלומך?", "sample_translate": "Привет, как твои дела?", "learned": false}
+{"word": "תודה", "translate": "спасибо", "translit": "тода", "sample": "תודה רבה על העזרה", "sample_translate": "Большое спасибо за помощь", "learned": false}
+{"word": "בסדר", "translate": "хорошо, нормально", "translit": "беседер", "sample": "הכל יהיה בסדר", "sample_translate": "Всё будет хорошо", "learned": false}
+{"word": "מים", "translate": "вода", "translit": "маим", "sample": "אני צמא, אני צריך מים", "sample_translate": "Я хочу пить, мне нужна вода", "learned": false}
+{"word": "לחם", "translate": "хлеб", "translit": "лехем", "sample": "היא קנתה לחם טרי", "sample_translate": "Она купила свежий хлеб", "learned": false}
+{"word": "אהבה", "translate": "любовь", "translit": "ахава", "sample": "אהבה היא הכוח הגדול ביותר", "sample_translate": "Любовь — это самая большая сила", "learned": false}
+{"word": "משפחה", "translate": "семья", "translit": "мишпаха", "sample": "המשפחה שלי גרה בתל אביב", "sample_translate": "Моя семья живет в Тель-Авиве", "learned": false}
+{"word": "חבר", "translate": "друг", "translit": "хавер", "sample": "הוא החבר הטוב שלי", "sample_translate": "Он мой лучший друг", "learned": false}
+{"word": "בית", "translate": "дом", "translit": "баит", "sample": "אני בבית", "sample_translate": "Я дома", "learned": false}
+{"word": "כלב", "translate": "собака", "translit": "келев", "sample": "יש לי כלב נאמן", "sample_translate": "У меня есть верная собака", "learned": false}
+{"word": "חתול", "translate": "кот", "translit": "хатуль", "sample": "החתול שלי ישן על הספה", "sample_translate": "Мой кот спит на диване", "learned": false}
+{"word": "ספר", "translate": "книга", "translit": "сефер", "sample": "אני קורא ספר מעניין", "sample_translate": "Я читаю интересную книгу", "learned": false}
+{"word": "בוקר", "translate": "утро", "translit": "бокер", "sample": "בוקר טוב!", "sample_translate": "Доброе утро!", "learned": false}
+{"word": "לילה", "translate": "ночь", "translit": "лайла", "sample": "לילה טוב, תחמוד", "sample_translate": "Спокойной ночи, милый", "learned": false}
+{"word": "אוכל", "translate": "еда", "translit": "охель", "sample": "האוכל במסעדה היה מעולה", "sample_translate": "Еда в ресторане была превосходной", "learned": false}
+{"word": "עבודה", "translate": "работа", "translit": "авода", "sample": "יש לי הרבה עבודה היום", "sample_translate": "У меня сегодня много работы", "learned": false}
+{"word": "שמש", "translate": "солнце", "translit": "шемеш", "sample": "השמש זורחת בבוקר", "sample_translate": "Солнце встает утром", "learned": false}
+{"word": "גשם", "translate": "дождь", "translit": "гешем", "sample": "יורד גשם בחוץ", "sample_translate": "На улице идет дождь", "learned": false}
+{"word": "יפה", "translate": "красивый/красивая", "translit": "яфа", "sample": "היא ילדה יפה", "sample_translate": "Она красивая девушка", "learned": false}
+{"word": "גדול", "translate": "большой", "translit": "гадоль", "sample": "יש לי בית גדול", "sample_translate": "У меня большой дом", "learned": false}
+{"word": "קטן", "translate": "маленький", "translit": "катан", "sample": "יש לי חתול קטן", "sample_translate": "У меня маленький кот", "learned": false}
+{"word": "מהיר", "translate": "быстрый", "translit": "махир", "sample": "הרכב הזה מהיר", "sample_translate": "Эта машина быстрая", "learned": false}
+{"word": "איטי", "translate": "медленный", "translit": "ити", "sample": "הצב איטי", "sample_translate": "Черепаха медленная", "learned": false}
+{"word": "חם", "translate": "горячий", "translit": "хам", "sample": "המרק חם", "sample_translate": "Суп горячий", "learned": false}
+{"word": "קר", "translate": "холодный", "translit": "кар", "sample": "הקרח קר", "sample_translate": "Лёд холодный", "learned": false}
+{"word": "שמח", "translate": "счастливый", "translit": "самеах", "sample": "אני שמח לראות אותך", "sample_translate": "Я счастлив видеть тебя", "learned": false}
+{"word": "עצוב", "translate": "грустный", "translit": "ацув", "sample": "למה אתה עצוב?", "sample_translate": "Почему ты грустный?", "learned": false}
+{"word": "חדש", "translate": "новый", "translit": "хадаш", "sample": "קניתי טלפון חדש", "sample_translate": "Я купил новый телефон", "learned": false}
+{"word": "ישן", "translate": "старый", "translit": "яшан", "sample": "זה בית ישן", "sample_translate": "Это старый дом", "learned": false}
+{"word": "טוב", "translate": "хороший", "translit": "тов", "sample": "זה סרט טוב", "sample_translate": "Это хороший фильм", "learned": false}
+{"word": "רע", "translate": "плохой", "translit": "ра", "sample": "מזג האוויר רע", "sample_translate": "Погода плохая", "learned": false}
+{"word": "קל", "translate": "лёгкий", "translit": "каль", "sample": "המבחן היה קל", "sample_translate": "Экзамен был лёгким", "learned": false}
+{"word": "קשה", "translate": "трудный", "translit": "каше", "sample": "העבודה הזאת קשה", "sample_translate": "Эта работа трудная", "learned": false}
+{"word": "רחוק", "translate": "далёкий", "translit": "рахок", "sample": "בית הספר רחוק", "sample_translate": "Школа далеко", "learned": false}
+{"word": "קרוב", "translate": "близкий", "translit": "каров", "sample": "החנות קרובה", "sample_translate": "Магазин близко", "learned": false}
+{"word": "לאט", "translate": "медленно", "translit": "леат", "sample": "נסע לאט", "sample_translate": "Езжай медленно", "learned": false}
+{"word": "מהר", "translate": "быстро", "translit": "махер", "sample": "רץ מהר", "sample_translate": "Беги быстро", "learned": false}
+{"word": "הרבה", "translate": "много", "translit": "арбе", "sample": "יש לי הרבה חברים", "sample_translate": "У меня много друзей", "learned": false}
+{"word": "מעט", "translate": "мало", "translit": "меат", "sample": "יש לי מעט זמן", "sample_translate": "У меня мало времени", "learned": false}
+{"word": "יומן", "translate": "дневник", "translit": "йоман", "sample": "אני כותב ביומן שלי", "sample_translate": "Я пишу в своём дневнике", "learned": false}
+{"word": "מורה", "translate": "учитель", "translit": "море", "sample": "המורה הסביר את השיעור", "sample_translate": "Учитель объяснил урок", "learned": false}
+{"word": "תלמיד", "translate": "ученик", "translit": "тальмид", "sample": "התלמיד ענה נכון", "sample_translate": "Ученик ответил правильно", "learned": false}
+{"word": "בית ספר", "translate": "школа", "translit": "бейт сефер", "sample": "אני הולך לבית ספר", "sample_translate": "Я иду в школу", "learned": false}
+{"word": "אוניברסיטה", "translate": "университет", "translit": "универcита", "sample": "הוא לומד באוניברסיטה", "sample_translate": "Он учится в университете", "learned": false}
+{"word": "רפואה", "translate": "медицина", "translit": "рфуа", "sample": "הוא לומד רפואה", "sample_translate": "Он изучает медицину", "learned": false}
+{"word": "משפטים", "translate": "юриспруденция", "translit": "мишпатим", "sample": "היא לומדת משפטים", "sample_translate": "Она изучает право", "learned": false}
+{"word": "הנדסה", "translate": "инженерия", "translit": "хандаса", "sample": "אני לומד הנדסה", "sample_translate": "Я изучаю инженерию", "learned": false}
+{"word": "כלכלה", "translate": "экономика", "translit": "калькала", "sample": "הוא לומד כלכלה", "sample_translate": "Он изучает экономику", "learned": false}
+{"word": "היסטוריה", "translate": "история", "translit": "история", "sample": "אני אוהב היסטוריה", "sample_translate": "Я люблю историю", "learned": false}
+{"word": "ספרות", "translate": "литература", "translit": "сифрут", "sample": "אני קורא ספרות רוסית", "sample_translate": "Я читаю русскую литературу", "learned": false}

@@ -1,0 +1,11 @@
+CMD=$1
+
+case "$CMD" in
+
+    "install")
+        poetry install
+    ;;
+    "run")
+        poetry run python hebrew_cards.py
+
+esac

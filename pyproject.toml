@@ -1,0 +1,17 @@
+[project]
+name = "hebrew-cards"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Arthur",email = "arthuras.work@gmail.com"}
+]
+requires-python = ">=3.12"
+dependencies = [
+    "questionary (>=2.1.1,<3.0.0)",
+    "colorama (>=0.4.6,<0.5.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
